@@ -3,6 +3,10 @@ instructors:
     profile_pic: /_images/pp/danielsaad.jpg
     webpage: https://danielsaad.com
 
-# teaching_assistants:
-#   - name: Virgulino Ferreira da Silva
-#     profile_pic: /_images/pp/lampiao.jpg
+teaching_assistants:
+  - name: Caio Aguiar
+    profile_pic: /_images/pp/lampiao.jpg
+  - name: Leonam Knupp
+    profile_pic: /_images/pp/lampiao.jpg
+  - name: Matheus Portela
+    profile_pic: /_images/pp/lampiao.jpg
