@@ -7,11 +7,12 @@ permalink: /materials/
 
 ## Juízes Online
 
-* https://beecrowd.com.br
-* https://codeforces.com/
-* https://atcoder.jp/
-* https://leetcode.com/
+* [Beecrowd](https://beecrowd.com.br)
+* [Codeforces](https://codeforces.com/)
+* [AtCoder](https://atcoder.jp/)
+* [LeetCode](https://leetcode.com/)
+* [Online Judge (UVa)](https://onlinejudge.org/)
 
 ## Livro de Programação Competitiva
 
-* https://cses.fi/book/book.pdf
+* [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
