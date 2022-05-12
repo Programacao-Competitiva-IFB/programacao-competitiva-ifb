@@ -1,17 +1,17 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
-title: Sample Lecture
-tldr: "Short text to discribe what this lecture is about."
+date: 2022-05-13T17:00:00+4:30
+title: Introdução a Programação Competitiva
+tldr: "Primeira aula síncrona do projeto."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
+    - url: /static_files/assignments/waiting_image.png
+      name: notas
+    - url: /static_files/assignments/waiting_image.png
+      name: códigos
+    - url: /static_files/assignments/waiting_image.png
       name: slides
 ---
-**Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+**Leitura recomendada:**
+- [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
+
