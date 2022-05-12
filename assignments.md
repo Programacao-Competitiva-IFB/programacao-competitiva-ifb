@@ -3,4 +3,4 @@ layout: assignments
 title: Projetos
 permalink: /assignments/
 ---
-You can download the assignments here. Also check out each assignment page for any additional info.
+Você pode baixar os projetos aqui. Além disso, verifique cada página do projeto para informações adicionais.
