@@ -33,7 +33,7 @@ layout: default
             </div> -->
 
             <div class="profile-pic-gallary ">
-                <h2>Professores</h2>
+                <h2>Coordenador</h2>
                 {% for ins in site.data.people.instructors %}
                 <div class="image--cover-container">
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
@@ -50,7 +50,7 @@ layout: default
         {% if site.data.people.teaching_assistants %}
             <div style="width:65%; float: left">
                 <div class="profile-pic-gallary ">
-                    <h2>Monitores</h2>
+                    <h2>Tutores</h2>
                     {% for ta in site.data.people.teaching_assistants %}
                     <div class="image--cover-container">
                         <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
