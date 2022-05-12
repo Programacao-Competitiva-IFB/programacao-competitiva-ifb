@@ -11,3 +11,7 @@ permalink: /materials/
 * https://codeforces.com/
 * https://atcoder.jp/
 * https://leetcode.com/
+
+## Livro de Programação Competitiva
+
+* https://cses.fi/book/book.pdf
