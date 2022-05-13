@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-Registre-se na [sala de aula virtual da disciplina](https://groups.google.com/forum/#!forum/gp-id) para receber as notificações, informações e participar dos eventos do projeto.
+Registre-se na [sala de aula virtual da disciplina](https://discord.com/invite/NYd4p3pnBb) para receber notificações e informações dos eventos do projeto e no [grupo no Vjudge](https://vjudge.net/group/programacao-competitiva-2022-1?r=ORG8tNIUDdZl9jZbPvnc) para participar e enviar os problemas das listas.

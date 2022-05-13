@@ -8,6 +8,6 @@ solutions: /static_files/assignments/waiting_image.png
 due_event: 
     type: due
     date: 2022-08-05T23:59:00+3:30
-    description: 'Lista 01 passou do tempo de envio.'
+    description: 'Data limite para envio da Lista 01'
 ---
 Primeira lista do projeto, focada em problemas que envolvem operações lógicas e aritméticas.
