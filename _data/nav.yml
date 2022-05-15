@@ -16,7 +16,7 @@ items:
   icon_class: fas fa-book-reader
 
 - url: /assignments/
-  name: Projetos
+  name: Contests
   icon_class: fas fa-user-graduate
 
 - url: /materials/
