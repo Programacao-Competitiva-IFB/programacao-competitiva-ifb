@@ -13,7 +13,7 @@ items:
 
 - url: /exercises/
   name: Exercícios
-  icon_class: fas fa-book-reader
+  icon_class: far fa-head-side-brain
 
 - url: /assignments/
   name: Contests
