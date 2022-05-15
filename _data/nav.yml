@@ -17,7 +17,7 @@ items:
 
 - url: /assignments/
   name: Contests
-  icon_class: fas fa-user-graduate
+  icon_class: fas fa-desktop
 
 - url: /materials/
   name: Materiais
