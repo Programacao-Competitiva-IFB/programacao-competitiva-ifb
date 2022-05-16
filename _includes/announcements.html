@@ -24,7 +24,7 @@
                 {% include lecture_links.html lecture=n %}
             {% elsif n.type == 'exercises' %}
                 Novo exercício disponível:
-                {% include exercises_links.html lecture=n %}
+                {% include exercises_links.html exercises=n %}
             {% elsif n.type == 'contest' %}
                 Novo contest disponível: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% else%}
