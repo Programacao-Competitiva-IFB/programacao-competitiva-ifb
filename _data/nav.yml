@@ -13,9 +13,9 @@ items:
 
 - url: /exercises/
   name: Exercícios
-  icon_class: far fa-head-side-brain
+  icon_class: fas fa-brain
 
-- url: /assignments/
+- url: /contests/
   name: Contests
   icon_class: fas fa-desktop
 

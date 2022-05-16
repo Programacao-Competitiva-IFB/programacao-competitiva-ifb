@@ -1,15 +1,10 @@
 ---
-type: exercises
-date: 2018-09-16T0:00:05-3:00
-title: Operações Lógicas e Aritméticas
+type: lecture
+date: 2018-09-15T0:00:06-3:00
+title: Entrada/Saída e Operadores Aritméticos
 tldr: 
-thumbnail: 
+thumbnail: /static_files/presentations/operadores.png
 links: 
-    - url: 
-      name: pdf
-
+    - url: /assets/aulas/entrada-saida-e-operadores.pdf
+      name: Slides
 ---
-
-<!-- **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com) -->
