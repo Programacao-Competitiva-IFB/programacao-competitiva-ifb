@@ -1,5 +1,5 @@
 ---
-layout: assignments
+layout: contests
 title: Contests
 permalink: /contests/
 ---

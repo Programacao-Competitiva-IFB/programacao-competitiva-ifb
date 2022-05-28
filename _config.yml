@@ -1,5 +1,5 @@
 # Site settings
-course_name: "Programação Competitiva IFB"
+course_name: "Programação Competitiva IFB: Módulo 01"
 course_description: "Site do Projeto Programação Competitiva IFB"
 course_semester: "2022/1"
 
@@ -38,6 +38,8 @@ collections:
     lectures:
         output: true
     exercises:
+        output: true
+    assignments:
         output: true
     contests:
         output: true
