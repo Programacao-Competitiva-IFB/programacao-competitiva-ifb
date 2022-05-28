@@ -6,6 +6,8 @@ tldr:
 thumbnail: /static_files/presentations/logo.png
 links: 
     - url: /assets/apresentacoes/introducao-a-programacao-competitiva.pdf
-      name: slides  
+      name: slides 
+    - url: https://youtu.be/D4sY7x04pq0
+      name: gravação
 ---
 
