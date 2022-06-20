@@ -1,7 +1,7 @@
 ---
 type: exercises
-date: 2018-09-15T0:00:07-3:00
-title: Estruturas de Decisão
+date: 2018-09-15T0:00:08-3:00
+title: Estruturas de Repetição
 tldr: 
 thumbnail: /static_files/presentations/estruturas-de-repeticao.jpg
 links: 
